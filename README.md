@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evodefense
-- 👀 I’m interested in ... everything and everything electric
+- 👀 I’m interested in ... everything and anything electric
 - 🌱 I’m currently learning ... linux, cyber security, web dev HTML CSS JAVA
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... here

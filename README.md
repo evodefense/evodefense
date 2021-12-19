@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evodefense
 - 👀 I’m interested in ... everything and anything that uses electricity 
-- 🌱 I’m currently learning ... linux, cyber security, web dev HTML CSS JAVA
+- 🌱 I’m currently learning ... linux, cyber security, web dev HTML CSS JAVA python
 - 💞️ I’m looking to collaborate on ... good karma!
 - 📫 How to reach me ... on the net @evodefense <_>!
 

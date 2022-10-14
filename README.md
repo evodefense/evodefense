@@ -1,7 +1,7 @@
-- 👋 Hi, this is evodefense Electrical / Virtual / Operational Defense for Everyone! Electrical and IT professionals, defending, building, programming, coding the next generation of automation, power and data reliability.
+- Cyber Security | Electrical | IT/OT | Programming
 - 👀 I’m interested in ... everything and anything that uses electricity!
-- 🌱 I’m currently learning ... linux, cyber security, web dev HTML CSS JAVA python
-- 💞️ I’m looking to collaborate on ... good karma!
+- 🌱 I’m currently learning ... python, CyberSec, Networking
+- 💞️ I’m looking to collaborate on ... good karma, great friends, amazing coffee!
 - 📫 How to reach me ... on the net https://evodefense.tech/ <_>!
 
 <!---
